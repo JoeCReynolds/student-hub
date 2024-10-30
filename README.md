@@ -1,7 +1,7 @@
 [![Travis build status](https://travis-ci.com/dswelbor/student-hub.svg?branch=master)](https://travis-ci.com/dswelbor/student-hub)
 
 # StudentHub
-A student-oriented hub for providing and integrating various academic, social, gaming, and other apps
+A student-oriented hub for providing and integrating various academic, social, gaming, and other app
 
 
 # Installation
